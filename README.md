@@ -1,5 +1,7 @@
 # Vue3-Composition API-API Countries
 
+## App Deployed at[https://vue3-vuex-api-countries.netlify.app/]
+
 ## Project setup
 
 ```
